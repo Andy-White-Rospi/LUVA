@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {//primer comentario xd
-  return (
+function App() {//primer comentario
+  return (//Segundo com
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
